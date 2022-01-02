@@ -1,0 +1,14 @@
+CADASTRO DE PEÇAS.
+ 3 requisitos:
+
+Peça possuir um peso superior de 100g.
+	Se sim, cadastar.
+	Se não, não cadastrar.
+
+Capacidade limite de 10 peças.
+	menor que 10, cadastrar.
+	igual ou maior que 10, não cadastrar.
+
+Nome da peça, com no minimo de três caracteres.
+	menor que três, não cadastrar.
+	igual ou mair que três, cadastrar.
